@@ -1,0 +1,7 @@
+{
+  "department-shearch": {
+    "component": "DepartmentSearch",
+    "composition": "children",
+    "render": "client"
+  }
+}
